@@ -8,3 +8,6 @@ mvn clean test -Dspring.profiles.active=h2
 ## Integrantes y pruebas
 
 - Lucas Inga: VetController, OwnerController, SpecialtyController y VisitController, cada uno con ControllerTest (H2) y ControllerMockitoTest (@MockitoBean).
+## Conflictos resueltos
+
+- Conflicto en README.md al unir dos ramas que editaban el final del archivo; se resolvio conservando ambas secciones.
